@@ -18,7 +18,7 @@
     "graphql-tag": "^2.10.1",
     "install": "^0.13.0",
     "node-sass": "^4.12.0",
-    "npm": "^6.11.2",
+    "npm": "^6.13.4",
     "react": "^16.9.0",
     "react-apollo": "^3.0.1",
     "react-confirm-alert": "^2.4.1",
